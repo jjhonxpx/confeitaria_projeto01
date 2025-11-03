@@ -4,17 +4,6 @@ Este projeto tem como objetivo realizar o **tratamento, padronização e valida�
 
 ---
 
-## 📁 Estrutura da Pasta
-
-📂 confeitaria_engenharia_dados/
-│
-├── Engenharia_de_Dados_Confeitaria.ipynb # Notebook com o código completo de tratamento
-├── Relatorio_Tecnico_Transformacoes.pdf # Relatório técnico descrevendo as etapas aplicadas
-└── README.md # Documento explicativo do projeto
-
-
----
-
 ## 🧾 Descrição do Projeto
 
 O projeto tem como foco a **engenharia e limpeza de dados** do setor de confeitaria, com os seguintes objetivos:
