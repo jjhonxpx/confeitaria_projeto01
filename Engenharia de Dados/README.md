@@ -1,4 +1,4 @@
-# 🍰 Projeto de Engenharia de Dados – Confeitaria
+# 🍰 Engenharia de Dados – Confeitaria
 
 Este projeto tem como objetivo realizar o **tratamento, padronização e validação de dados de vendas** de uma confeitaria, a partir de uma planilha bruta exportada de um sistema comercial.
 
